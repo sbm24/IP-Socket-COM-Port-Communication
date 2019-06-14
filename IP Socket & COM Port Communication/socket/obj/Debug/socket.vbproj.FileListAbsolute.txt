@@ -1,0 +1,32 @@
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\bin\Debug\socket.exe.config
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\bin\Debug\socket.exe
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\bin\Debug\socket.pdb
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\bin\Debug\socket.xml
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\obj\Debug\socket.Form1.resources
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\obj\Debug\socket.Resources.resources
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\obj\Debug\socket.vbproj.GenerateResource.Cache
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\obj\Debug\socket.exe
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\obj\Debug\socket.xml
+c:\users\cbdl\documents\visual studio 2013\Projects\socket\socket\obj\Debug\socket.pdb
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\bin\Debug\socket.exe.config
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\obj\Debug\socket.exe
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\obj\Debug\socket.xml
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\obj\Debug\socket.pdb
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\bin\Debug\socket.exe
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\bin\Debug\socket.pdb
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\bin\Debug\socket.xml
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\obj\Debug\socket.Form1.resources
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\obj\Debug\socket.Resources.resources
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\obj\Debug\socket.vbproj.GenerateResource.Cache
+C:\Users\CBDL\Documents\Visual Studio 2013\Projects\Server\socket\obj\Debug\socket.Form2.resources
+C:\Users\Shubham\Documents\Projects\Server\socket\bin\Debug\socket.exe.config
+C:\Users\Shubham\Documents\Projects\Server\socket\bin\Debug\socket.exe
+C:\Users\Shubham\Documents\Projects\Server\socket\bin\Debug\socket.pdb
+C:\Users\Shubham\Documents\Projects\Server\socket\bin\Debug\socket.xml
+C:\Users\Shubham\Documents\Projects\Server\socket\obj\Debug\socket.Form1.resources
+C:\Users\Shubham\Documents\Projects\Server\socket\obj\Debug\socket.Form2.resources
+C:\Users\Shubham\Documents\Projects\Server\socket\obj\Debug\socket.Resources.resources
+C:\Users\Shubham\Documents\Projects\Server\socket\obj\Debug\socket.vbproj.GenerateResource.Cache
+C:\Users\Shubham\Documents\Projects\Server\socket\obj\Debug\socket.exe
+C:\Users\Shubham\Documents\Projects\Server\socket\obj\Debug\socket.xml
+C:\Users\Shubham\Documents\Projects\Server\socket\obj\Debug\socket.pdb
